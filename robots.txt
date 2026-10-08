@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kuzmichevmaksim-byte.github.io/Maxim-massage/sitemap.xml
